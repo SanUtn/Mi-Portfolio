@@ -1,0 +1,163 @@
+﻿body{
+    margin:0;
+    padding:0;
+}
+
+#header {
+    background: #FFE3E8;
+    position: relative;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+#spanI {
+    margin-left: 650px;
+    color: white;
+    text-decoration-style: solid;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#spanF {
+    margin-left: 25px;
+    color: white;
+    text-decoration-style: solid;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#spanE {
+    margin-left: 25px;
+    color: white;
+    text-decoration-style: solid;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#spanC {
+    margin-left: 25px;
+    color: white;
+    text-decoration-style: solid;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#imgFondo {
+    width: 1020px;
+    height: 635px;
+    position: absolute;
+}
+
+#divTitulo{
+    
+}
+
+#titulo {
+    color: white;
+    position: relative;
+    z-index: 50;
+    text-align: center;
+    top: 100px;
+    font-size: 32px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#foto {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 410px;
+    top: 100px;
+ 
+}
+
+#descripcion {
+    color: white;
+    position: relative;
+    top: 108px;
+    width: 750px;
+    left: 136px;
+    text-align: center;
+    text-decoration-style: solid;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*css Formacion------------------------*/
+.pFormacion {
+    color: white;
+    position: relative;
+    top: 80px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*css Experiencia------------------------*/
+.pExperiencia {
+    color: white;
+    position: relative;
+    top: 80px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tareas {
+    color: white;
+    position: relative;
+    top: 65px;
+    width: 700px;
+    left: 160px;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*css Contacto------------------------*/
+.redes {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 280px;
+    top: 160px;
+}
+
+dialog {
+    top: 280px;
+    width: 300px;
+    background: none;
+    border-block-color: white;
+}
+
+#telefono {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#boton {
+    background: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#spanBoton {
+   left: 120px;
+   position: relative;
+}
